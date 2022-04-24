@@ -11,3 +11,7 @@ https://github.com/CodinGame/SpringChallenge2022/tree/main/starterAIs
 Introduction video by Mathis Hammel:
 
 https://youtu.be/MyHjWftmMfQ
+
+
+
+test1
